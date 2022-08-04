@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharva Shirode</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-77&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-77" /> </p>
-
 - 👨‍💻 All of my projects are available at:-   
 **[https://atharva-shirode.netlify.app/](https://atharva-shirode.netlify.app/)**
 
@@ -37,3 +35,5 @@ Github Link:- **[E-commerce website with Image Search](https://github.com/Atharv
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-77&label=Profile%20views&color=0e75b6&style=flat" alt="atharva-77" /> </p>
