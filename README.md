@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at:-   
 **[https://atharva-shirode.netlify.app/](https://atharva-shirode.netlify.app/)**
 
-- 📫 How to reach me:- **atharva.rit@gmail.com** or **atharva.shirode11@gmail.com**
+- 📫 How to reach me:- **atharva.rit@gmail.com** or **as2749@rit.edu**
 
 <h3 align="left">More About my recent Projects:</h3>
 
