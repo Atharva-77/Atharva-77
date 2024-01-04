@@ -10,11 +10,11 @@
 
 - I made a <strong>Twitter-like clone</strong> where user can <strong>Edit</strong> an post too:-   
 Github Link:- **[Social-folks](https://github.com/Atharva-77/Social-folks)**   
-Live Project:-**[https://social-folks.herokuapp.com/](https://social-folks.herokuapp.com/)**   
+Live Project:-**[https://social-folks.vercel.app/](https://social-folks.vercel.app/)**   
 
 - I made an <strong>E-commerce Website</strong> where you can perform <strong>Image-Search</strong> of products:-   
 Github Link:- **[E-commerce website with Image Search](https://github.com/Atharva-77/E-Commerce-ImageSearch-PricePredict)**   
-Live Project:-**[https://buytes.herokuapp.com/](https://buytes.herokuapp.com/)**   
+Live Project:-**[https://e-commerce-stores.vercel.app/](https://e-commerce-stores.vercel.app/)**   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
